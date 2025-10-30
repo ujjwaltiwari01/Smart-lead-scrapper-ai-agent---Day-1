@@ -1,0 +1,22 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local env and secrets
+.env
+**/.env
+
+# Selenium drivers
+msedgedriver.exe
+chromedriver.exe
+geckodriver.exe
+
+# App output
+output/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
